@@ -1,0 +1,12 @@
+{
+  "name": "LFSTest",
+  "version": "1.0.0",
+  "description": "git lfs test",
+  "main": "index.js",
+  "repository": "https://github.com/Dhentai/LFSTest.git",
+  "author": "DxHeNT <wujiecao547498787@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.2.3"
+  }
+}
